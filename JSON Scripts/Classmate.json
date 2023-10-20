@@ -1,0 +1,68 @@
+{
+  "messages": [
+    {
+      "id": 0,
+      "sender": "Classmate",
+      "message": "Hey, how's Olivia? I haven't seen her in a while. Has she run away again?",
+      "threshold": 0,
+      "next": [6],
+      "impact": 0
+    },
+    {
+      "id": 1,
+      "sender": "You",
+      "message": "I don't know. She has been kind of MIA for a while. ",
+      "threshold": 0,
+      "next": [2],
+      "impact": 0
+    },
+    {
+      "id": 2,
+      "sender": "Classmate",
+      "message": "I hope she's fine, she's missed a lot of lacrosse practices and her grades have been slipping.",
+      "threshold": 0,
+      "next": [7],
+      "impact": 0
+    },
+    {
+      "id": 3,
+      "sender": "You",
+      "message": "Yeah, she has been a little different recently. I'm a little worried about her mental health.",
+      "threshold": 0,
+      "next": [4],
+      "impact": 0
+    },
+    {
+      "id": 4,
+      "sender": "Classmate",
+      "message": "Well you should really talk to her and maybe go to a guidance counselor, you know her better than I do.",
+      "threshold": 0,
+      "next": [5],
+      "impact": 0
+    },
+    {
+      "id": 5,
+      "sender": "You",
+      "message": "Yeah, I will do that.",
+      "threshold": 0,
+      "next": [],
+      "impact": 0
+    },
+    {
+      "id": 6,
+      "sender": "System",
+      "message": "RUNAWAY YOUTH ARE AT HIGHER RISK FOR TRAFFICKING.",
+      "threshold": 0,
+      "next": [1],
+      "impact": 0
+    },
+    {
+      "id": 7,
+      "sender": "System",
+      "message": "DECLINE IN ACADEMIC PERFORMANCE, CHANGE IN BEHAVIOR, AND NO LONGER ATTENDING ACTIVITIES NORMALLY ATTENDED ARE INDICATORS OF TRAFFICKING.",
+      "threshold": 0,
+      "next": [3],
+      "impact": 0
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "messages": [
+    {
+      "sender": "Jack",
+      "message": "Hey, what\u2019s up?",
+      "id": 0,
+
+      "next": [1],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Hey, who\u2019re you?",
+      "id": 1,
+
+      "next": [2],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "Jack",
+      "message": "My name is Jack, and you\u2019re Olivia?",
+      "id": 2,
+
+      "next": [3],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Yeah lol, how\u2019d you even find me???",
+      "id": 3,
+
+      "next": [4],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "Jack",
+      "message": "You just came up on my recommended",
+      "id": 4,
+
+      "next": [5],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "JacK",
+      "message": "I see you also play lacrosse!",
+      "id": 5,
+
+      "next": [6],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Yeah, it\u2019s my favorite sport.",
+      "id": 6,
+
+      "next": [7],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Do you play too???",
+      "id": 7,
+
+      "next": [8],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "Jack",
+      "message": "Yeah, I love it, we should play sometime.",
+      "id": 8,
+
+      "next": [9],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Yeah we should, where are you from?",
+      "id": 9,
+
+      "next": [10],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "Jack",
+      "message": "From Wisconsin!",
+      "id": 10,
+
+      "next": [11],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Omg, there\u2019s no way so am I.",
+      "id": 11,
+
+      "next": [12],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "Jack",
+      "message": "You play at the field near Falcon High right?",
+      "id": 12,
+
+      "next": [13],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Yeah\u2026 how\u2019d you know?",
+      "id": 13,
+
+      "next": [14],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "Jack",
+      "message": "I saw the location on one of your posts.",
+      "id": 14,
+
+      "next": [15],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "System",
+      "message": "POSTING LOCATIONS ON SOCIAL MEDIA POSES A RISK TO YOUR SAFETY",
+      "id": 15,
+
+      "next": [16],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Ohhh ok, yeah I did post that. Maybe we can actually meet up and play then.",
+      "id": 16,
+
+      "next": [17],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "System",
+      "message": "Olivia: Wait I\u2019ll go to the bathroom, you text him.",
+      "id": 17,
+
+      "next": [18],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Hey, this is Olivia\u2019s friend, she told me to take over while she does something.",
+      "id": 18,
+
+      "next": [19],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "Jack",
+      "message": "Hey, wow she seems to trust you a lot letting you talk to someone for her.",
+      "id": 19,
+
+      "next": [20],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Yeah, we\u2019re best friends. We don\u2019t keep any secrets from each other.",
+      "id": 20,
+
+      "next": [21],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "Jack",
+      "message": "Got it got it, so that means I gotta impress you too lol.",
+      "id": 21,
+
+      "next": [22],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "It does, we don\u2019t have many friends besides each other, so it\u2019s always just us two.",
+      "id": 22,
+
+      "next": [23],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "Jack",
+      "message": "Alright tell me, is she an introvert or extrovert?",
+      "id": 23,
+
+      "next": [24, 27],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Introvert",
+      "id": 24,
+
+      "next": [25],
+      "impact": 5,
+      "threshold": 0
+    },
+    {
+      "sender": "Jack",
+      "message": "What else about her should I know?",
+      "id": 25,
+
+      "next": [26],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Idk, why don't we just wait for her to come back.",
+      "id": 26,
+
+      "next": [],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "I guess she\u2019s an introvert, she doesn\u2019t talk to anyone besides me really",
+      "id": 27,
+
+      "next": [28],
+      "impact": -5,
+      "threshold": 0
+    },
+    {
+      "sender": "Jack",
+      "message": "What about her parents?",
+      "id": 28,
+
+      "next": [29, 32],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "That\u2019s an interesting thing to ask about",
+      "id": 29,
+
+      "next": [30],
+      "impact": 5,
+      "threshold": 0
+    },
+    {
+      "sender": "Jack",
+      "message": "Well, I just want to know more about it, just a harmless question. She seems super cool.",
+      "id": 30,
+
+      "next": [31],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "She is, and she's coming back right now.",
+      "id": 31,
+
+      "next": [],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "They don\u2019t really have a good relationship",
+      "id": 32,
+
+      "next": [33],
+      "impact": -5,
+      "threshold": 0
+    },
+    {
+      "sender": "Jack",
+      "message": "Wdym by that?",
+      "id": 33,
+
+      "next": [34, 35],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Idk I don\u2019t really want to tell a stranger all about her personal life. Let's just wait till she gets back.",
+      "id": 34,
+
+      "next": [],
+      "impact": 5,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "She\u2019s very distant from them and they don\u2019t see each other much. Speaking of, she's coming back right now.",
+      "id": 35,
+      "next": [],
+      "impact": -5,
+      "threshold": 0
+    }
+  ]
+}

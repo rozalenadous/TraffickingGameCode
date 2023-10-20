@@ -1,0 +1,442 @@
+{
+  "messages": [
+    {
+      "id": 0,
+      "sender": "You",
+      "message": "Hey, I’m sorry I had to leave so suddenly. Are you still with Jack?",
+      "threshold": 0,
+      "next": [1],
+
+      "impact": 0
+    },
+    {
+      "id": 1,
+      "sender": "Olivia",
+      "message": "No, I’m home now. That was really confusing, Jack was worried that he gave you a bad impression.",
+      "threshold": 0,
+      "next": [2],
+
+      "impact": 0
+    },
+    {
+      "id": 2,
+      "sender": "You",
+      "message": "Well, that’s what I wanted to talk about. I found his ID, his REAL ID, it says he’s 28 years old and his real name is Vincent. ",
+      "threshold": 0,
+      "next": [44],
+
+      "impact": 0
+    },
+    {
+      "id": 3,
+      "sender": "Olivia",
+      "message": "What… Does he know you did that? Why were you snooping, you’re going to get us all in trouble. ",
+      "threshold": 0,
+      "next": [4, 5],
+
+      "impact": 0
+    },
+    {
+      "id": 4,
+      "sender": "You",
+      "message": "That’s not the point, he’s lying about everything.",
+      "threshold": 0,
+      "next": [6],
+
+      "impact": 0
+    },
+    {
+      "id": 5,
+      "sender": "You",
+      "message": "I know, I was just curious and I saw it peeking out. But, he’s not Jack, you’re not safe with him.",
+      "threshold": 0,
+      "next": [6],
+
+      "impact": 0
+    },
+    {
+      "id": 6,
+      "sender": "Olivia",
+      "message": " I’ll be fine it’s alright.",
+      "threshold": 0,
+      "next": [7],
+
+      "impact": 0
+    },
+    {
+      "id": 7,
+      "sender": "You",
+      "message": "I just want to be there for you. Please talk to me Olivia, did you suspect that he was lying?",
+      "threshold": 90,
+      "next": [9, 8],
+
+      "impact": 0
+    },
+    {
+      "id": 8,
+      "sender": "Olivia",
+      "message": "He lies about a lot of things, but I don't really want to talk about it right now.",
+      "threshold": 0,
+      "next": [10, 11],
+
+      "impact": 0
+    },
+    {
+      "id": 9,
+      "sender": "Olivia",
+      "message": "No, he wouldn't do that to me.",
+      "threshold": 0,
+      "next": [10, 11],
+
+      "impact": 0
+    },
+    {
+      "id": 10,
+      "sender": "You",
+      "message": "How well do you really know him?",
+      "threshold": 0,
+      "next": [12],
+
+      "impact": 0
+    },
+    {
+      "id": 11,
+      "sender": "You",
+      "message": "I'm sorry Olivia, but I saw it, he's not really Jack and he's a grown man. ",
+      "threshold": 0,
+      "next": [12],
+
+      "impact": 0
+    },
+    {
+      "id": 12,
+      "sender": "Olivia",
+      "message": "I don't know... but I guess it makes some sense.",
+      "threshold": 0,
+      "next": [13, 14],
+
+      "impact": 0
+    },
+    {
+      "id": 13,
+      "sender": "You",
+      "message": "What do you mean? What else do I not know about?",
+      "threshold": 0,
+      "next": [15],
+
+      "impact": 0
+    },
+    {
+      "id": 14,
+      "sender": "You",
+      "message": "What do you mean? You can tell me anything, I promise I won't judge. ",
+      "threshold": 0,
+      "next": [15],
+
+      "impact": 0
+    },
+    {
+      "id": 15,
+      "sender": "Olivia",
+      "message": "I don't know if I should say. He just wasn't what I expected. Maybe it is normal though, maybe this is how relationships are.",
+      "threshold": 0,
+      "next": [48],
+
+      "impact": 0
+    },
+    {
+      "id": 48,
+      "sender": "System",
+      "message": "MANY VICTIMS ARE TRAFFICKED BY ROMANTIC PARTNERS",
+      "threshold": 0,
+      "next": [16],
+
+      "impact": 0
+    },
+    {
+      "id": 16,
+      "sender": "You",
+      "message": "Why would you think that?",
+      "threshold": 0,
+      "next": [17],
+
+      "impact": 0
+    },
+    {
+      "id": 17,
+      "sender": "Olivia",
+      "message": "It's what he and his friends say.",
+      "threshold": 0,
+      "next": [18],
+
+      "impact": 0
+    },
+    {
+      "id": 18,
+      "sender": "You",
+      "message": "Well, if it's a normal relationship thing, then why can't you talk to me or others about it?",
+      "threshold": 0,
+      "next": [19],
+
+      "impact": 0
+    },
+    {
+      "id": 19,
+      "sender": "Olivia",
+      "message": "I can't tell you. If I tell you, everyone will know. My whole life will be over.",
+      "threshold": 0,
+      "next": [20],
+
+      "impact": 0
+    },
+    {
+      "id": 20,
+      "sender": "You",
+      "message": "I won't tell anyone and I promise I won't judge.",
+      "threshold": 0,
+      "next": [21],
+
+      "impact": 0
+    },
+    {
+      "id": 21,
+      "sender": "Olivia",
+      "message": "I just can't tell you. I'm too ashamed and if I did, I'd get in trouble.",
+      "threshold": 0,
+      "next": [22],
+
+      "impact": 0
+    },
+    {
+      "id": 22,
+      "sender": "You",
+      "message": "Did he threaten you or something? ",
+      "threshold": 0,
+      "next": [46],
+      "impact": 0
+    },
+    {
+      "id": 46,
+      "sender": "Systems",
+      "message": "PHYSICAL, PSYCHOLOGICAL, AND SEXUAL THREATS ARE USED TO COERCE AND CONTROL VICTIMS",
+      "threshold": 0,
+      "next": [23],
+      "impact": 0
+    },
+    {
+      "id": 23,
+      "sender": "Olivia",
+      "message": "I guess, it's embarrassing to say. You wouldn't really understand.",
+      "threshold": 0,
+      "next": [24],
+
+      "impact": 0
+    },
+    {
+      "id": 24,
+      "sender": "You",
+      "message": "No, it's not, help me to understand then. I'll never judge you.",
+      "threshold": 0,
+      "next": [25],
+
+      "impact": 0
+    },
+    {
+      "id": 25,
+      "sender": "Olivia",
+      "message": "He has... private photos and videos of me. It's my fault, I should've never sent them to him.",
+      "threshold": 0,
+      "next": [26],
+
+      "impact": 0
+    },
+    {
+      "id": 26,
+      "sender": "You",
+      "message": "It's not your fault, you're a teenager he's an adult, he should know better. Is he threatening to leak them if you tell someone? ",
+      "threshold": 0,
+      "next": [27],
+
+      "impact": 0
+    },
+    {
+      "id": 44,
+      "sender": "System",
+      "message": "TRAFFICKERS OFTEN FAKE THEIR IDENTITIES ONLINE TO RECRUIT VICTIMS",
+      "threshold": 0,
+      "next": [3],
+      "impact": 0
+    },
+    {
+      "id": 27,
+      "sender": "Olivia",
+      "message": "Yes, please don't tell anyone. I can't let him find out.",
+      "threshold": 0,
+      "next": [28],
+
+      "impact": 0
+    },
+    {
+      "id": 28,
+      "sender": "You",
+      "message": "I won't say anything if you don't want that. If you're comfortable talking about it ",
+      "threshold": 0,
+      "next": [47],
+
+      "impact": 0
+    },
+    {
+      "id": 47,
+      "sender": "You",
+      "message": "what else did you mean when you said that he and his friends called the stuff you did \"normal relationship things\"?",
+      "threshold": 0,
+      "next": [29],
+
+      "impact": 0
+    },
+    {
+      "id": 29,
+      "sender": "Olivia",
+      "message": "It's a lot. I don't know, what will you think of me?",
+      "threshold": 0,
+      "next": [30],
+
+      "impact": 0
+    },
+    {
+      "id": 30,
+      "sender": "You",
+      "message": "I'm not going to judge you, you don't have to be embarrassed or ashamed.",
+      "threshold": 0,
+      "next": [31],
+
+      "impact": 0
+    },
+    {
+      "id": 31,
+      "sender": "Olivia",
+      "message": "Sometimes he makes me go to these hotels and meet up with his \"friends\".",
+      "threshold": 0,
+      "next": [43],
+
+      "impact": 0
+    },
+    {
+      "id": 32,
+      "sender": "You",
+      "message": "What do you mean by \"friends\" and what do you guys do there?",
+      "threshold": 0,
+      "next": [33],
+
+      "impact": 0
+    },
+    {
+      "id": 33,
+      "sender": "Olivia",
+      "message": "Well, he sometimes calls them that, to make me more comfortable with doing stuff for them, but they're really just clients. ",
+      "threshold": 0,
+      "next": [34, 35],
+
+      "impact": 0
+    },
+    {
+      "id": 34,
+      "sender": "You",
+      "message": "What kind of stuff?",
+      "threshold": 0,
+      "next": [36],
+
+      "impact": 0
+    },
+    {
+      "id": 35,
+      "sender": "You",
+      "message": "Is he making you do things you don't want to do? Are you really comfortable with it?",
+      "threshold": 0,
+      "next": [36],
+
+      "impact": 0
+    },
+    {
+      "id": 36,
+      "sender": "Olivia",
+      "message": "He makes me do... sexual things for his clients. I never wanted to do it. But he makes me feel important. Even if I wanted to stop and leave him, I can't.",
+      "threshold": 0,
+      "next": [37],
+
+      "impact": 0
+    },
+    {
+      "id": 37,
+      "sender": "You",
+      "message": "You can always stop. It's dangerous and scary, but you can do it. I'm here for you. We can figure something out.",
+      "threshold": 0,
+      "next": [38],
+
+      "impact": 0
+    },
+    {
+      "id": 38,
+      "sender": "Olivia",
+      "message": "I'm scared, what if he hurts you or someone else I care about? I don't know what he's capable of.",
+      "threshold": 0,
+      "next": [39],
+
+      "impact": 0
+    },
+    {
+      "id": 39,
+      "sender": "You",
+      "message": "No one has to get hurt. What he's doing is illegal. There are people you can talk to, only if you want to.",
+      "threshold": 0,
+      "next": [45],
+
+      "impact": 0
+    },
+    {
+      "id": 45,
+      "sender": "You",
+      "message": "We can talk to them together and they can stop him from making you do things you don't want to be doing and leaking your photos. ",
+      "threshold": 0,
+      "next": [40],
+
+      "impact": 0
+    },
+    {
+      "id": 40,
+      "sender": "Olivia",
+      "message": "I don't know who I can tell, what if they don't understand?",
+      "threshold": 0,
+      "next": [41],
+
+      "impact": 0
+    },
+    {
+      "id": 41,
+      "sender": "You",
+      "message": "They will understand, there are police who are specialized in trafficking cases. I'll be right there with you too.",
+      "threshold": 0,
+      "next": [42],
+
+      "impact": 0
+    },
+    {
+      "id": 42,
+      "sender": "Olivia",
+      "message": "Alright, I'll call them.",
+      "threshold": 0,
+      "next": [],
+
+      "impact": 0
+    },
+    {
+      "id": 43,
+      "sender": "System",
+      "message": "HOTELS AND MOTELS ARE A COMMON VENUE FOR TRAFFICKING.",
+      "threshold": 0,
+      "next": [32],
+
+      "impact": 0
+    }
+  ]
+}

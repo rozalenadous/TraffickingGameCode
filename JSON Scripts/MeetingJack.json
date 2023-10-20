@@ -1,0 +1,189 @@
+{
+  "messages": [
+    {
+      "id": 0,
+      "sender": "Jack",
+      "message": "Hey, it's nice to meet you in person finally, Olivia told me so much about you. I'm so glad she has someone like you.",
+      "threshold": 0,
+      "next": [1],
+      "impact": 0
+    },
+    {
+      "id": 1,
+      "sender": "You",
+      "message": "Hey, it's good to meet you too! I'm the one who's grateful for her!",
+      "threshold": 0,
+      "next": [2, 3],
+      "impact": 0
+    },
+    {
+      "id": 2,
+      "sender": "You",
+      "message": "You got Olivia a lot of nice clothes and bags. It must be very expensive, what do you do for work?",
+      "threshold": 0,
+      "next": [20],
+      "impact": 0
+    },
+    {
+      "id": 20,
+      "sender": "System",
+      "message": "NEW MATERIAL POSSESSIONS ARE AN INDICATOR OF TRAFFICKING",
+      "threshold": 0,
+      "next": [4],
+
+      "impact": 0
+    },
+    {
+      "id": 3,
+      "sender": "You",
+      "message": "If you're 19 and you're not in college, do you have a job?",
+      "threshold": 0,
+      "next": [20],
+      "impact": 0
+    },
+    {
+      "id": 4,
+      "sender": "Jack",
+      "message": "Yeah, I work as an entrepreneur.",
+      "threshold": 0,
+      "next": [21],
+      "impact": 0
+    },
+    {
+      "id": 21,
+      "sender": "You",
+      "message": "Oh? What's your line of business?.",
+      "threshold": 0,
+      "next": [22],
+      "impact": 0
+    },
+    {
+      "id": 22,
+      "sender": "Jack",
+      "message": "It's complicated, so we shouldn't get into it, but it's allowed me to spoil Olivia.",
+      "threshold": 0,
+      "next": [5],
+      "impact": 0
+    },
+    {
+      "id": 5,
+      "sender": "You",
+      "message": "You must really care about Olivia to be getting her so much.",
+      "threshold": 0,
+      "next": [6],
+      "impact": 0
+    },
+    {
+      "id": 6,
+      "sender": "Jack",
+      "message": "What can I say, Olivia means the most to me.",
+      "threshold": 0,
+      "next": [7],
+      "impact": 0
+    },
+    {
+      "id": 7,
+      "sender": "You",
+      "message": "So tell me how you got into lacrosse.",
+      "threshold": 0,
+      "next": [8],
+      "impact": 0
+    },
+    {
+      "id": 8,
+      "sender": "Jack",
+      "message": "Lacrosse?",
+      "threshold": 0,
+      "next": [9, 10],
+      "impact": 0
+    },
+    {
+      "id": 9,
+      "sender": "You",
+      "message": "Isn't that what you and Olivia connected over...",
+      "threshold": 0,
+      "next": [11],
+      "impact": 0
+    },
+    {
+      "id": 10,
+      "sender": "You",
+      "message": "Yeah, you mentioned it when we talked on Finsta.",
+      "threshold": 0,
+      "next": [11],
+      "impact": 0
+    },
+    {
+      "id": 11,
+      "sender": "Olivia",
+      "message": "He’s just tired from his work. His dad taught him when he was a little kid.",
+      "threshold": 0,
+      "next": [12],
+      "impact": 0
+    },
+    {
+      "id": 12,
+      "sender": "You",
+      "message": "Oh alright, what about-",
+      "threshold": 0,
+      "next": [13],
+      "impact": 0
+    },
+    {
+      "id": 13,
+      "sender": "Olivia",
+      "message": "Why don’t we talk about you, we’ve talked about Jack so much.",
+      "threshold": 0,
+      "next": [14],
+      "impact": 0
+    },
+    {
+      "id": 14,
+      "sender": "Jack",
+      "message": "Yeah, let’s do that. I'd love to know more about you and Olivia’s friendship.",
+      "threshold": 0,
+      "next": [15, 16],
+      "impact": 0
+    },
+    {
+      "id": 15,
+      "sender": "You",
+      "message": "Yeah sure, I just wanted to get to know you for Olivia's sake.",
+      "threshold": 0,
+      "next": [17],
+      "impact": 0
+    },
+    {
+      "id": 16,
+      "sender": "You",
+      "message": "I'm just making sure you’re good enough for Olivia, I’m a little protective over her.",
+      "threshold": 0,
+      "next": [17],
+      "impact": 0
+    },
+    {
+      "id": 17,
+      "sender": "Jack",
+      "message": "Well that makes sense, no one is good enough for Olivia, I’m just grateful she chose me. Olivia, can we talk for a second?",
+      "threshold": 0,
+      "next": [18],
+      "impact": 0
+    },
+    {
+      "id": 18,
+      "sender": "Olivia",
+      "message": "Yeah, um, sure. Is everything fine?",
+      "threshold": 0,
+      "next": [19],
+      "impact": 0
+    },
+    {
+      "id": 19,
+      "sender": "Jack",
+      "message": "Yeah, of course. In private though... Be right back.",
+      "threshold": 0,
+      "next": [],
+      "impact": 0
+    }
+  ]
+}

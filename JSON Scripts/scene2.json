@@ -1,0 +1,187 @@
+{
+  "messages": [
+    {
+      "sender": "You",
+      "message": "How\u2019s everything going, I feel like we haven\u2019t talked in a really long time.",
+      "id": 0,
+
+      "next": [1],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "Olivia",
+      "message": "It\u2019s going well, Jack and I started dating actually.",
+      "id": 1,
+
+      "next": [2],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "What, why didn\u2019t you tell me??",
+      "id": 2,
+
+      "next": [3],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "Olivia",
+      "message": "I mean, you don\u2019t really like him that much.",
+      "id": 3,
+
+      "next": [4, 5],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Well I don\u2019t love him, but he\u2019s my bff\u2019s bf, so I\u2019ll still be nice to him.",
+      "id": 4,
+
+      "next": [6],
+      "impact": 5,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "I mean yeah he\u2019s a little weird.",
+      "id": 5,
+
+      "next": [6],
+      "impact": -5,
+      "threshold": 0
+    },
+    {
+      "sender": "Olivia",
+      "message": "Well it\u2019s just that he felt you might get a little upset about us dating so he didn\u2019t want me to tell you.",
+      "id": 6,
+
+      "next": [7, 8],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Well I\u2019m not upset, I just want to be there for you, I don\u2019t want this to ruin our friendship.",
+      "id": 7,
+
+      "next": [9],
+      "impact": 5,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Don\u2019t you think his not wanting me to know proves my point about him being weird\u2026",
+      "id": 8,
+
+      "next": [9],
+      "impact": -5,
+      "threshold": 0
+    },
+    {
+      "sender": "Olivia",
+      "message": "He said to keep it our little secret, I don\u2019t see anything wrong with that. It\u2019s kind of cute actually.",
+      "id": 9,
+
+      "next": [10, 11],
+      "impact": 0,
+      "threshold": 0
+    },
+
+    {
+      "sender": "You",
+      "message": "It seems like he's trying to manipulate you",
+      "id": 10,
+      "next": [12],
+      "impact": -5,
+      "threshold": 0
+    },
+
+    {
+      "sender": "You",
+      "message": "That sounds a little concerning, what if he's trying to get you to hide something bad",
+      "id": 11,
+      "next": [13],
+      "impact": 5,
+      "threshold": 0
+    },
+
+    {
+      "sender": "Olivia",
+      "message": "See, we knew you\u2019d say this, let\u2019s just stop talking about this.",
+      "id": 12,
+
+      "next": [],
+      "impact": 0,
+      "threshold": 0
+    },
+
+    {
+      "sender": "Olivia",
+      "message": "No he isn't, why would he do that? He's a good person and I trust him.",
+      "id": 13,
+
+      "next": [14, 16],
+      "impact": 0,
+      "threshold": 0
+    },
+
+    {
+      "sender": "You",
+      "message": "I would be wary of him",
+      "id": 14,
+
+      "next": [15],
+      "impact": -5,
+      "threshold": 0
+    },
+    {
+      "sender": "Olivia",
+      "message": "See we knew you'd say this, let's just stop talking about this.",
+      "id": 15,
+
+      "next": [],
+      "impact": 0,
+      "threshold": 0
+    },
+
+    {
+      "sender": "You",
+      "message": "Well has he asked you to do things you know would get you in trouble or things that make you a little uncomfortable?",
+      "id": 16,
+
+      "next": [17],
+      "impact": 5,
+      "threshold": 0
+    },
+
+    {
+      "sender": "Olivia",
+      "message": "Maybe a little, I don't really want to talk about it.",
+      "id": 17,
+
+      "next": [18, 19],
+      "impact": 0,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Alright I won't force you",
+      "id": 18,
+      "next": [],
+      "impact": -5,
+      "threshold": 0
+    },
+    {
+      "sender": "You",
+      "message": "Alright, but I'm always here for you if you decide you want to talk",
+      "id": 19,
+      "next": [],
+      "impact": 5,
+      "threshold": 0
+    }
+  ]
+}

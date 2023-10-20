@@ -1,0 +1,319 @@
+{
+  "messages": [
+    {
+      "id": 0,
+      "sender": "You",
+      "message": "Is that a new necklace?",
+      "threshold": 0,
+      "next": [1],
+
+      "impact": 0
+    },
+    {
+      "id": 1,
+      "sender": "Olivia",
+      "message": "Yeah, Jack got it for me actually. He's so sweet.",
+      "threshold": 0,
+      "next": [2],
+
+      "impact": 0
+    },
+    {
+      "id": 2,
+      "sender": "You",
+      "message": "You have a lot of new things, are they all from him?",
+      "threshold": 0,
+      "next": [27],
+
+      "impact": 0
+    },
+    {
+      "id": 3,
+      "sender": "Olivia",
+      "message": "Yeah they are, I've never been given this much. He treats me so well.",
+      "threshold": 0,
+      "next": [4],
+
+      "impact": 0
+    },
+    {
+      "id": 4,
+      "sender": "You",
+      "message": "How have things been going with you two?",
+      "threshold": 0,
+      "next": [5],
+
+      "impact": 0
+    },
+    {
+      "id": 5,
+      "sender": "Olivia",
+      "message": "We moved to Kik, it's a chatroom and I've met some of his friends through it.",
+      "threshold": 0,
+      "next": [29],
+
+      "impact": 0
+    },
+    {
+      "id": 6,
+      "sender": "You",
+      "message": "You're in the chatroom right now? What are you texting him?",
+      "threshold": 0,
+      "next": [7],
+
+      "impact": 0
+    },
+    {
+      "id": 7,
+      "sender": "Olivia",
+      "message": "Nothing, stop being so nosy.",
+      "threshold": 0,
+      "next": [8],
+
+      "impact": 0
+    },
+    {
+      "id": 8,
+      "sender": "You",
+      "message": "Why'd he and his friends say GNOC, what does that mean?",
+      "threshold": 0,
+      "next": [9],
+
+      "impact": 0
+    },
+    {
+      "id": 9,
+      "sender": "Olivia",
+      "message": "Stop reading my messages, what's wrong with you?",
+      "threshold": 0,
+      "next": [28],
+
+      "impact": 0
+    },
+    {
+      "id": 10,
+      "sender": "You",
+      "message": "Get naked on camera? You're really doing that for him and his friends?",
+      "threshold": 0,
+      "next": [12],
+
+      "impact": 0
+    },
+    {
+      "id": 11,
+      "sender": "You",
+      "message": "I know you didn't want me to know but I googled GNOC and I'm not judging I just want to know if you're ok doing that for him and his friends.",
+      "threshold": 0,
+      "next": [12],
+
+      "impact": 0
+    },
+    {
+      "id": 12,
+      "sender": "You",
+      "message": "What? Why'd you do that? I don't want to talk about that. It means something else.",
+      "threshold": 0,
+      "next": [13],
+
+      "impact": 0
+    },
+    {
+      "id": 13,
+      "sender": "You",
+      "message": "I just want to be there for you. Just know I'd never judge you.",
+      "threshold": 0,
+      "next": [14],
+
+      "impact": 0
+    },
+    {
+      "id": 14,
+      "sender": "Olivia",
+      "message": " I don't know, sometimes it makes me feel really shameful",
+      "threshold": 0,
+      "next": [15],
+
+      "impact": 0
+    },
+    {
+      "id": 15,
+      "sender": "You",
+      "message": "I don't know what he told you, but you always have a choice to stop if you don't feel comfortable.",
+      "threshold": 0,
+      "next": [16],
+
+      "impact": 0
+    },
+    {
+      "id": 16,
+      "sender": "Olivia",
+      "message": "I don't have a choice though...",
+      "threshold": 0,
+      "next": [17],
+
+      "impact": 0
+    },
+    {
+      "id": 17,
+      "sender": "You",
+      "message": "What do you mean? Did he threaten you or something?",
+      "threshold": 0,
+      "next": [30],
+
+      "impact": 0
+    },
+    {
+      "id": 30,
+      "sender": "System",
+      "message": "PHYSICAL, PSYCHOLOGICAL, AND SEXUAL THREATS ARE USED TO COERCE AND CONTROL VICTIMS",
+      "threshold": 0,
+      "next": [18],
+
+      "impact": 0
+    },
+    {
+      "id": 18,
+      "sender": "Olivia",
+      "message": "I guess, it's embarrassing to say, you wouldn't understand.",
+      "threshold": 0,
+      "next": [19],
+
+      "impact": 0
+    },
+    {
+      "id": 19,
+      "sender": "You",
+      "message": "No, it's not, help me to understand then. I'll never judge you, you don't have to ever feel shame telling me these things.",
+      "threshold": 0,
+      "next": [20],
+
+      "impact": 0
+    },
+    {
+      "id": 20,
+      "sender": "Olivia",
+      "message": "He has private photos and videos of me. It's my fault, I shouldn't have ever let him have those.",
+      "threshold": 0,
+      "next": [21],
+
+      "impact": 0
+    },
+    {
+      "id": 21,
+      "sender": "You",
+      "message": "It's not your fault, you're a teenager and I'm pretty sure he's an adult, not a teen like he said.",
+      "threshold": 0,
+      "next": [33],
+
+      "impact": 0
+    },
+    {
+      "id": 33,
+      "sender": "System",
+      "message": "TRAFFICKERS OFTEN FAKE THEIR IDENTITIES ONLINE TO RECRUIT VICTIMS",
+      "threshold": 0,
+      "next": [34],
+
+      "impact": 0
+    },
+    {
+      "id": 34,
+      "sender": "You",
+      "message": "He's the one who should know better. Is he threatening to leak the photos if you tell someone?",
+      "threshold": 0,
+      "next": [22],
+
+      "impact": 0
+    },
+    {
+      "id": 22,
+      "sender": "Olivia",
+      "message": "Yes, please don't tell anyone. My life will be over.",
+      "threshold": 0,
+      "next": [23],
+
+      "impact": 0
+    },
+    {
+      "id": 23,
+      "sender": "You",
+      "message": "I won't say anything if you don't want that. But I want you to know that what he's doing is wrong and illegal.",
+      "threshold": 0,
+      "next": [31],
+
+      "impact": 0
+    },
+    {
+      "id": 31,
+      "sender": "You",
+      "message": "There are people you can talk to, only if you want to, and we can talk to them together and they can stop him from making you do these things.",
+      "threshold": 0,
+      "next": [24],
+
+      "impact": 0
+    },
+    {
+      "id": 24,
+      "sender": "Olivia",
+      "message": " I don’t know if I want to tell any adults right now though. I don’t think they’d understand.",
+      "threshold": 0,
+      "next": [25],
+
+      "impact": 0
+    },
+    {
+      "id": 25,
+      "sender": "You",
+      "message": "You can talk to professionals who know how to help you get out of this situation, they'll understand.",
+      "threshold": 0,
+      "next": [32],
+
+      "impact": 0
+    },
+    {
+      "id": 32,
+      "sender": "You",
+      "message": "The human trafficking hotline is completely confidential. You don't have to worry about anything, you're not alone.",
+      "threshold": 0,
+      "next": [26],
+
+      "impact": 0
+    },
+    {
+      "id": 26,
+      "sender": "Olivia",
+      "message": "Ok, I'll talk to them.",
+      "threshold": 0,
+      "next": [],
+
+      "impact": 0
+    },
+    {
+      "id": 27,
+      "sender": "System",
+      "message": "NEW MATERIAL POSSESSIONS ARE AN INDICATOR OF TRAFFICKING",
+      "threshold": 0,
+      "next": [3],
+
+      "impact": 0
+    },
+    {
+      "id": 28,
+      "sender": "System",
+      "message": "GNOC MEANING \"GET NAKED ON CAMERA\" IS ONE OF MANY CODE PHRASES USED IN TRAFFICKING CHATROOMS",
+      "threshold": 0,
+      "next": [10, 11],
+
+      "impact": 0
+    },
+    {
+      "id": 29,
+      "sender": "System",
+      "message": "CHATROOMS ARE A COMMON PLACE FOR TRAFFICKERS TO COMMUNICATE WITH VICTIMS",
+      "threshold": 0,
+      "next": [6],
+
+      "impact": 0
+    }
+  ]
+}
